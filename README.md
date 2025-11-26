@@ -1,20 +1,47 @@
-## Olá! Eu sou o Rafael Belmont👋
+## Olá! Eu sou o Rafael Belmont 👋
 
-🎓 Estudante de **Sistemas de Informação** (5º período)  
-🏢 Cefet-RJ
+Sou estudante de **Sistemas de Informação** no **CEFET-RJ (6º período)** e entusiasta de tecnologia. Atualmente focado no **desenvolvimento backend com TypeScript/Node.js**, criando projetos individuais e participando de iniciativas em grupo, sempre com ênfase na construção de **APIs REST escaláveis**.
 
-## 🚀 Projetos em destaque
-🔹 [Projeto SquidGame](https://github.com/BelmontRafael/SquidGame)  
+Estou me aprofundando em **Arquitetura de Software**, estudando e aplicando conceitos como:  
+ **GraphQL**, **gRPC**, **Microsserviços**, **SOLID**, **Design Patterns**, **DDD**, **Clean Code**.
 
-## 🛠 Tecnologias e Ferramentas
+---
 
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### **Tecnologias**
 
-## 📫 Contato
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-belmont-915939334/)  
-- [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelmagalhaes12323@gmail.com)
+[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&labelColor=000&logo=javascript&logoColor=F7DF1E)](#)
+[![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&labelColor=000&logo=typescript&logoColor=3178C6)](#)
+[![NodeJS Badge](https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&labelColor=000&logo=node.js&logoColor=3C873A)](#)
+
+---
+
+### **Dados**
+
+[![MySQL Badge](https://img.shields.io/badge/-MySQL-005C84?style=for-the-badge&labelColor=000&logo=mysql&logoColor=white)](#)
+[![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-31648C?style=for-the-badge&labelColor=000&logo=postgresql&logoColor=white)](#)
+
+---
+
+### **Estatísticas**
+
+<div align="center">
+  <img 
+    alt="GitHub Stats" 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=BelmontRafael&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"
+  />
+
+  <img 
+    alt="Top Langs" 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BelmontRafael&layout=compact&langs_count=8&theme=transparent"
+  />
+</div>
+
+---
+
+### **Contato**
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=000)](mailto:rafaelmagalhaes12323@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=000)](https://www.linkedin.com/in/rafael-belmont-915939334/)
+
