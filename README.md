@@ -24,17 +24,16 @@ Estou me aprofundando em **Arquitetura de Software**, estudando e aplicando conc
 
 ### **Estatísticas**
 
-<div align="center">
+<div align="left">
   <img 
     alt="GitHub Stats" 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=BelmontRafael&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats-phi-plum.vercel.app/api?username=BelmontRafael&show_icons=true&theme=transparent&v=2" 
   />
-
   <img 
     alt="Top Langs" 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BelmontRafael&layout=compact&langs_count=8&theme=transparent"
+    src="https://github-readme-stats-phi-plum.vercel.app/api/top-langs/?username=BelmontRafael&layout=compact&langs_count=8&theme=transparent&v=2" 
   />
 </div>
 
