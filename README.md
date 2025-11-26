@@ -30,11 +30,6 @@ Estou me aprofundando em **Arquitetura de Software**, estudando e aplicando conc
     height="180em" 
     src="https://github-readme-stats-phi-plum.vercel.app/api?username=BelmontRafael&show_icons=true&theme=transparent&v=2" 
   />
-  <img 
-    alt="Top Langs" 
-    height="180em" 
-    src="https://github-readme-stats-phi-plum.vercel.app/api/top-langs/?username=BelmontRafael&layout=compact&langs_count=8&theme=transparent&v=2" 
-  />
 </div>
 
 ---
