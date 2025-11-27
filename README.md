@@ -1,9 +1,8 @@
-## Olá! Eu sou o Rafael Belmont 👋
+## Olá! Eu sou o Rafael Belmont
 
 Sou estudante de **Sistemas de Informação** no **CEFET-RJ (6º período)** e entusiasta de tecnologia. Atualmente focado no **desenvolvimento backend com TypeScript/Node.js**, criando projetos individuais e participando de iniciativas em grupo, sempre com ênfase na construção de **APIs REST escaláveis**.
 
-Estou me aprofundando em **Arquitetura de Software**, estudando e aplicando conceitos como:  
- **GraphQL**, **gRPC**, **Microsserviços**, **SOLID**, **Design Patterns**, **DDD**, **Clean Code**.
+Estou me aprofundando em **Arquitetura de Software**, estudando e aplicando conceitos como:  **GraphQL**, **gRPC**, **Microsserviços**, **SOLID**, **Design Patterns**, **DDD**, **Clean Code**.
 
 ---
 
@@ -22,13 +21,20 @@ Estou me aprofundando em **Arquitetura de Software**, estudando e aplicando conc
 
 ---
 
-### **Estatísticas**
+### **Informações**
 
-<div align="left">
+<div align="left" >
   <img 
     alt="GitHub Stats" 
     height="180em" 
-    src="https://github-readme-stats-phi-plum.vercel.app/api?username=BelmontRafael&show_icons=true&theme=transparent&v=2" 
+    src="https://github-readme-stats-phi-plum.vercel.app/api?username=BelmontRafael&show_icons=true&theme=github_dark&locale=pt-br" 
+    style="margin-right: 20 px;" 
+  />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img 
+    alt="Top Langs" 
+    height="180em" 
+    src="https://github-readme-stats-phi-plum.vercel.app/api/top-langs/?username=BelmontRafael&layout=compact&langs_count=8&theme=github_dark&locale=pt-br" 
   />
 </div>
 
