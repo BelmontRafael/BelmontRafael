@@ -11,6 +11,8 @@ Estou me aprofundando em **Arquitetura de Software**, estudando e aplicando conc
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&labelColor=000&logo=javascript&logoColor=F7DF1E)](#)
 [![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&labelColor=000&logo=typescript&logoColor=3178C6)](#)
 [![NodeJS Badge](https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&labelColor=000&logo=node.js&logoColor=3C873A)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&labelColor=000&logo=react&logoColor=61DAFB)](#)
+
 
 ---
 
